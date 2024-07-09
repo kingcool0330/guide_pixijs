@@ -8,10 +8,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pixijs/examples.git"
-  },
-  "bugs": {
-    "url": "https://github.com/pixijs/examples/issues"
+    "url": "git+https://github.com/kingcool0330/guide_pixijs.git"
   },
   "scripts": {
     "clean": "rimraf dist/*",
